@@ -1,0 +1,16 @@
+2019/11/06 14:29:12 [error] 20588#18604: *1 CreateFile() "C:\Users\muchiyama\Documents\private\repos\MyReactApp\server\nginx-1.17.5/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: my.react.app.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8090", referrer: "http://localhost:8090/"
+2019/11/06 14:33:38 [notice] 17300#2612: signal process started
+2019/11/06 14:37:25 [notice] 4680#19424: signal process started
+2019/11/06 14:43:41 [notice] 13384#21216: signal process started
+2019/11/06 14:44:07 [notice] 17484#19612: signal process started
+2019/11/06 14:44:34 [notice] 20084#10428: signal process started
+2019/11/06 14:52:44 [notice] 20984#16868: signal process started
+2019/11/06 21:04:55 [error] 19604#20140: *4 CreateFile() "C:\Users\muchiyama\Documents\private\repos\MyReactApp\server\nginx-1.17.5/html/build/sample" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: my.app.com, request: "GET /sample HTTP/1.1", host: "localhost:8090"
+2019/11/06 21:05:05 [error] 19604#20140: *4 CreateFile() "C:\Users\muchiyama\Documents\private\repos\MyReactApp\server\nginx-1.17.5/html/build/sample" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: my.app.com, request: "GET /sample HTTP/1.1", host: "localhost:8090"
+2019/11/06 21:09:44 [notice] 11968#20152: signal process started
+2019/11/06 21:10:20 [error] 19604#20140: *8 CreateFile() "C:\Users\muchiyama\Documents\private\repos\MyReactApp\server\nginx-1.17.5/html/build/sample" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: my.app.com, request: "GET /sample HTTP/1.1", host: "localhost:8090"
+2019/11/06 21:10:53 [emerg] 9112#22292: invalid number of arguments in "try_files" directive in C:\Users\muchiyama\Documents\private\repos\MyReactApp\server\nginx-1.17.5/conf/nginx.conf:47
+2019/11/06 21:11:28 [emerg] 13688#20076: invalid number of arguments in "try_files" directive in C:\Users\muchiyama\Documents\private\repos\MyReactApp\server\nginx-1.17.5/conf/nginx.conf:47
+2019/11/06 21:11:47 [emerg] 22372#22556: invalid number of arguments in "try_files" directive in C:\Users\muchiyama\Documents\private\repos\MyReactApp\server\nginx-1.17.5/conf/nginx.conf:47
+2019/11/06 21:12:41 [notice] 23712#5964: signal process started
+2019/11/06 21:12:54 [error] 19604#20140: *11 CreateFile() "C:\Users\muchiyama\Documents\private\repos\MyReactApp\server\nginx-1.17.5/html/build/sample" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: my.app.com, request: "GET /sample HTTP/1.1", host: "localhost:8090"
