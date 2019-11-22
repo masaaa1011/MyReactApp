@@ -3,8 +3,8 @@ import { BrowserRouter, Route, Link, Router } from 'react-router-dom';
 import { Container, Row, Col } from 'react-bootstrap'
 import './App.css';
 
-import AllResult from './pages/AllResult'
 import Header from './components/frame/Header'
+import AllResult from './components/pages/AllResult'
 
 class App extends React.Component {
 
@@ -18,6 +18,8 @@ class App extends React.Component {
     <BrowserRouter>
       <Header/>
       <Container>
+        <Row>
+        </Row>
         <Row>
           <Col>
           </Col>
