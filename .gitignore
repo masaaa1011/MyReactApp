@@ -1,1 +1,5 @@
-.\app\my-react-app\node_modules
+*.exe
+*.cache
+*.dll
+*.log
+*.pdb
