@@ -5,6 +5,7 @@ import './App.css';
 
 import Header from './components/frame/Header'
 import AllResult from './components/pages/AllResult'
+import CatCarousel from './components/parts/CatCarousel'
 
 class App extends React.Component {
 
@@ -19,6 +20,7 @@ class App extends React.Component {
       <Header/>
       <Container>
         <Row>
+            <CatCarousel/>>
         </Row>
         <Row>
           <Col>

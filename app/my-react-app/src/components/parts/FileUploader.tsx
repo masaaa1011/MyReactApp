@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react';  
 
 const FileUploader: React.FC = () => {
     return (
